@@ -19,8 +19,8 @@ Video File: ../../lecture01.mkv
 Video AR Mode: 4
 Video AR Value: 1.305556
 Video Zoom Percent: 1.750000
-Scroll Position: 69
-Active Line: 75
+Scroll Position: 1021
+Active Line: 1028
 Video Position: 11660
 
 [V4+ Styles]
@@ -1058,3 +1058,4 @@ Dialogue: 0,0:54:00.87,0:54:04.12,Conference,,0,0,0,,La Nature ne se sert que de
 Dialogue: 0,0:54:04.49,0:54:07.56,Conference,,0,0,0,,chaque petite pièce de son tissu
 Dialogue: 0,0:54:07.74,0:54:10.88,Conference,,0,0,0,,révèle l'organisation de \Nla tapisserie tout entière.
 Dialogue: 0,0:54:10.96,0:54:12.38,Conference,,0,0,0,,Merci.
+Dialogue: 0,0:54:12.38,0:54:16.38,Conference,,0,0,0,,Sous-titres : @Galileo51 Galilei\NCorrection et relecture : @Madraf Tintagel 
